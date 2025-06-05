@@ -10,6 +10,3 @@ Este proyecto es una aplicación desarrollada en **Java** que implementa las ope
 - Almacenamiento de datos en archivos `.txt` locales.
 - Flujo de navegación por menús en la terminal.
 - Separación clara por capas: modelo, lógica de negocio y persistencia.
-- Código legible y modular, apto para propósitos educativos o demostrativos.
-
-
